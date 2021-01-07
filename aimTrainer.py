@@ -1,3 +1,5 @@
+#### AIM TRAINER #########
+# BY Keven Qiu
 import pygame, random, sys, os
 from pygame.locals import *
 
